@@ -21,7 +21,7 @@
 		"name": "Witcher",
 		"movementType": "Land",
 		"uniques": ["[+10]% Strength <vs [Vampire] units>",
-          "[+15]% Strength <within [2] tiles of a [Elemental Circle]>",
+                                        "[+15]% Strength <within [2] tiles of a [Elemental Circle]>",
 					"[+50]% Strength <during the [Industrial age]>",	// 36
 					"[+100]% Strength <during the [Prosperity age]>",	// 48
 					"[+175]% Strength <during the [Modern age]>"]		// 66
