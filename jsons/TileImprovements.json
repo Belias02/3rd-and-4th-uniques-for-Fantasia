@@ -1,13 +1,16 @@
 [
 {
 		"name": "Elemental Circle",
+	        "uniqueto": "The Order of Witchers",
 		"turnsToBuild": 8,
 		"techRequired": "Arcane Magic",
-		"uniques": ["Can only be built to improve a resource", 
-					"Pillaging this improvement yields approximately [+12 Gold]"],
+		"uniques": [
+			"Can only be built to improve a resource",
+			"[+2 Culture] <after discovering [Quintessence Force]",
+			"Pillaging this improvement yields approximately [+12 Gold]"],
 		"shortcutKey": "B",
 		"civilopediaText": [
-			{"text": "An enclosed area dedicated to researching the ley line phenomenon."}
+			{"text": "A place where magic is strong, enough for people to have erected monuments. Mages can draw power from Circles of Elements, and witchers can learn new Signs, as well as getting a momentary boost for the spells they already know."}
 		]
 	},
 ]
