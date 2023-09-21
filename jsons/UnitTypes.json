@@ -1,0 +1,29 @@
+[
+{
+        "name": "Mage",
+        "movementType": "Land",
+		    "uniques": ["[+50]% Strength <vs cities> <when attacking>",
+          "[+15]% Strength <when fighting in [Elemental Circle] tiles>",
+					"[+25]% Strength <vs [Construct] units> <when attacking>"]
+    },
+    {
+        "name": "Mage Hero",
+        "movementType": "Land",
+        "uniques": ["[-100]% maintenance costs",
+          "[+15]% Strength <when fighting in [Elemental Circle] tiles>",
+					"[+33]% Strength <vs [Water Terror] units>", 
+					"[+33]% Strength <vs [Air Terror] units>", 
+					"[+100]% Strength <vs [Beast] units>", 
+					"[+50]% Strength <vs cities> <when attacking>", 
+					"[+25]% Strength <vs [Construct] units> <when attacking>"]
+    },
+    {
+		"name": "Witcher",
+		"movementType": "Land",
+		"uniques": ["[+10]% Strength <vs [Vampire] units>",
+          "[+15]% Strength <within [2] tiles of a [Elemental Circle]>",
+					"[+50]% Strength <during the [Industrial age]>",	// 36
+					"[+100]% Strength <during the [Prosperity age]>",	// 48
+					"[+175]% Strength <during the [Modern age]>"]		// 66
+	},
+]
