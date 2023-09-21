@@ -7,6 +7,8 @@
 		"uniques": [
 			"Can only be built to improve a resource",
 			"[+2 Culture] <after discovering [Quintessence Force]",
+			"Mage units are stronger on this tile",
+			"Witchers get a boost in their strength when they are near this tile",
 			"Pillaging this improvement yields approximately [+12 Gold]"],
 		"shortcutKey": "B",
 		"civilopediaText": [
