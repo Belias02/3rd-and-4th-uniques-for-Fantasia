@@ -1,0 +1,19 @@
+[
+  {
+		"name": "Ley Line",
+		"resourceType": "Bonus",
+		"revealedBy": "Mana Sensing",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Marsh"],
+		"faith": 1,
+		"improvedBy": ["Beacon of Power", "Elemental Circle"],
+		"improvementStats": {"science": 1},
+		"uniques": ["Generated on every [22] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles>", 
+					"Generated on every [22] tiles <in [Featureless] [Desert] tiles>",
+					"Generated on every [13] tiles <in [Featureless] [Flood plains] tiles>",
+					"Generated on every [18] tiles <in [Featureless] [Hill] tiles>",
+					"Generated on every [22] tiles <in [Featureless] [Tundra] tiles>",
+					"Generated on every [20] tiles <in [Featureless] [Snow] tiles>",
+					"Generated on every [13] tiles <in [Featureless] [Marsh] tiles>",]
+	},
+]
