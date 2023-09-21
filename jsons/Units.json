@@ -1,2 +1,23 @@
 [
+  {
+		"name": "Troll Headhunter",
+    "replaces": "Ranger",
+    "uniqueTo": "The Trolls",
+		"unitType": "Recon",
+		"movement": 2,
+		"strength": 9,
+    "rangedStrength": 9,
+		"range": 1,
+		"cost": 50,
+		"requiredTech": "Trapping",
+		"upgradesTo": "Pathfinder",
+		"obsoleteTech": "Mass Media",
+		"uniques": ["[+1] Movement <in [Forest] tiles>", 
+					"[+1] Movement <in [Jungle] tiles>",
+          "[+1] Movement <in [Swamp] tiles>",
+		"attackSound": "arrow",
+		"civilopediaText": [
+			{"text": "Stronger recon unit, specialized for scouting on wooded terrain."}
+		]
+	},
 ]
