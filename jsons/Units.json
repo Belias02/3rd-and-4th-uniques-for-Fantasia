@@ -20,4 +20,22 @@
 			{"text": "Stronger recon unit, specialized in hit and run tactics"}
 		]
 	},
+	{
+		"name": "Troll Shaman",
+		"replaces": "Great General",
+		"uniqueTo": "The Trolls",
+		"unitType": "Civilian",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", 
+			    "Can instantly construct a [Citadel] improvement <by consuming this unit>", 
+			    "Great Person - [War]",
+			    "All adjacent units heal [+10] HP when healing",
+			    "[+1] Movement <in [Forest] tiles>", 
+			    "[+1] Movement <in [Jungle] tiles>",
+                            "[+1] Movement <in [Swamp] tiles>",
+			    "Unbuildable", "Uncapturable"],
+		"movement": 2,
+		"civilopediaText": [
+			{"text": "Tactical minded trolls, capable of leading and healing their troops."}
+		]
+	},
 ]
