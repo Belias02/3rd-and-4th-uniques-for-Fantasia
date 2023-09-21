@@ -1,0 +1,13 @@
+[
+{
+		"name": "Elemental Circle",
+		"turnsToBuild": 8,
+		"techRequired": "Arcane Magic",
+		"uniques": ["Can only be built to improve a resource", 
+					"Pillaging this improvement yields approximately [+12 Gold]"],
+		"shortcutKey": "B",
+		"civilopediaText": [
+			{"text": "An enclosed area dedicated to researching the ley line phenomenon."}
+		]
+	},
+]
