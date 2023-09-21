@@ -1,2 +1,18 @@
 [
+  {
+		"name": "Potion Lab",
+    "replaces": "Quality Seeds Station",
+    "uniqueTo": "The Order of Witchers",
+		"food": 2,
+    "gold": 1,
+    "culture": 1,
+    "uniques": ["[15]% Food is carried over after population increases [in this city]"],
+		"requiredBuilding": "Witcher School",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Alchemy",
+		"civilopediaText": [
+			{"text": "Witchers excel at alchemy, this lab specialize in potion for normal people"}
+		]
+	},
 ]
