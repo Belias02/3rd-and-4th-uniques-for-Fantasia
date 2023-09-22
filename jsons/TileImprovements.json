@@ -7,12 +7,10 @@
 		"uniques": [
 			"Can only be built to improve a resource",
 			"[+2 Culture] <after discovering [Quintessence Force]",
-			"Mage units are stronger on this tile",
-			"Witchers get a boost in their strength when they are near this tile",
-			"Pillaging this improvement yields approximately [+12 Gold]"],
+			"Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "B",
 		"civilopediaText": [
 			{"text": "A place where magic is strong, enough for people to have erected monuments. Mages can draw power from Circles of Elements, and witchers can learn new Signs, as well as getting a momentary boost for the spells they already know."}
 		]
-	},
+	}
 ]
