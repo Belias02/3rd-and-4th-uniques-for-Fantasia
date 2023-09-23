@@ -14,7 +14,7 @@
 		"obsoleteTech": "Mass Media",
 		"uniques": ["[+1] Movement <in [Forest] tiles>", 
 			    "[+1] Movement <in [Jungle] tiles>",
-                            "[+1] Movement <in [Marsh] tiles>",
+                            "[+1] Movement <in [Marsh] tiles>",]
 		"attackSound": "arrow",
 		"civilopediaText": [
 			{"text": "Stronger recon unit, specialized in hit and run tactics"}
