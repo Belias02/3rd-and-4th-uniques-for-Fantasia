@@ -1,12 +1,12 @@
 [
 {
 		"name": "Elemental Circle",
-	        "uniqueto": "The Order of Witchers",
+	        "uniqueTo": "The Order of Witchers",
 		"turnsToBuild": 8,
 		"techRequired": "Arcane Magic",
 		"uniques": [
 			"Can only be built to improve a resource",
-			"[+2 Culture] <after discovering [Quintessence Force]",
+			"[+2 Culture] <after discovering [Quintessence Force]>",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		        "Mage units are stronger on this tile",
 		        "Witcher units are stronger near this tile",
