@@ -38,4 +38,22 @@
 			{"text": "Tactical minded trolls, capable of leading and healing their troops."}
 		]
 	},
+	{
+		"name": "Secret Seekers",
+		"Replaces": "Scout",
+		"unitType": "Recon",
+		"movement": 2,
+		"strength": 4,
+		"cost": 25,
+		"upgradesTo": "Ranger",
+		"obsoleteTech": "Theology",
+		"uniques": [
+		"Invisible to non-adjacent units",
+		"Ignores Zone of Control",
+                "May upgrade to [Composite Bowman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{"text": "To discover the secrets of all civilizations Rumpleister Zeiwass created this elite group of spies which acted as his eyes and ears, discovering anything in their path."}
+		]
+	},
 ]
