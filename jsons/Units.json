@@ -41,6 +41,7 @@
 	{
 		"name": "Secret Seekers",
 		"replaces": "Scout",
+		"uniqueTo": "Vedic",
 		"unitType": "Recon",
 		"movement": 2,
 		"strength": 4,
