@@ -18,7 +18,7 @@
 	{
 		"name": "Information Hub",
 		"replaces": "Market",
-		"uniqueTo": "Verdic",
+		"uniqueTo": "Vedic",
 		"science": 1,
 		"culture": 1,
 		"faith": 1,
