@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "Secret Seekers",
-		"Replaces": "Scout",
+		"replaces": "Scout",
 		"unitType": "Recon",
 		"movement": 2,
 		"strength": 4,
