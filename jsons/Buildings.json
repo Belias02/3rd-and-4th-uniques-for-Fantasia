@@ -17,17 +17,17 @@
 	},
 	{
 		"name": "Information Hub",
-		"replaces": "Market",
+		"replaces": "Information Market",
 		"uniqueTo": "Vedic",
-		"science": 1,
-		"culture": 1,
-		"faith": 1,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Currency",
+		"maintenance": 3,
+		"hurryCostModifier": 15,
+		"science": 3,
+		"specialistSlots": {"Inventor": 1},
+		"requiredBuilding": "Paper Maker",
+		"uniques": ["[+2 Science, +1 Gold] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Guilds",
 		"civilopediaText": [
-			{"text": "A place where exchange or transaction of goods, services and information is held."}
+			{"text": "Even the most unheard information can be found here."}
 		]
 	},
 ]
